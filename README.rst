@@ -1,6 +1,6 @@
 Installation
 ============
-wget -qO- https://raw.githubusercontent.com/korzeniewskipl/vimcharm/master/install.sh | sh
+wget -qO- https://raw.githubusercontent.com/pmichalakpl/vimcp/master/install.sh | sh
 
 
 Features
