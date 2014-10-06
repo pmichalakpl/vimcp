@@ -65,3 +65,13 @@ git clone https://github.com/jistr/vim-nerdtree-tabs.git $BUNDLE/nerdtree
 
 # Install signify
 git clone https://github.com/mhinz/vim-signify $BUNDLE/nerdtree
+
+# Install vim-latex-preview
+git clone https://github.com/xuhdev/vim-latex-live-preview.git $BUNDLE/nerdtree
+
+# Install snipmate
+git clone https://github.com/tomtom/tlib_vim.git  $BUNDLE/nerdtree
+git clone https://github.com/MarcWeber/vim-addon-mw-utils.git $BUNDLE/nerdtree
+git clone https://github.com/garbas/vim-snipmate.git $BUNDLE/nerdtree
+
+
