@@ -31,6 +31,7 @@ wget -qO $AUTOLOAD/pathogen.vim https://tpo.pe/pathogen.vim
 
 # Install color scheme.
 wget -qO $COLORS/wombat256mod.vim https://raw.githubusercontent.com/pmichalakpl/vimcp/master/.vim/colors/wombat256mod.vim
+wget -qO $COLORS/mustang.vim https://raw.githubusercontent.com/pmichalakpl/vimcp/master/.vim/colors/mustang.vim
 
 # Install powerline.
 git clone https://github.com/Lokaltog/powerline.git $BUNDLE/powerline

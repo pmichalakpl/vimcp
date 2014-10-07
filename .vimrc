@@ -100,7 +100,9 @@ if exists('+colorcolumn')
 " Color scheme.
 " ============================================================================
 set t_Co=256
-colorscheme wombat256mod
+" Chose colorscheme
+"colorscheme wombat256mod
+colorscheme mustang
 
 
 " ============================================================================
