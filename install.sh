@@ -50,29 +50,28 @@ git clone https://github.com/scrooloose/nerdcommenter.git $BUNDLE/nerdcommenter
 git clone https://github.com/scrooloose/nerdtree.git $BUNDLE/nerdtree
 
 # Install gitgutter
-git clone git://github.com/airblade/vim-gitgutter.git $BUNDLE/nerdtree
+git clone git://github.com/airblade/vim-gitgutter.git $BUNDLE/gitgutter
 
 # Install syntastic
-git clone https://github.com/scrooloose/syntastic.git $BUNDLE/nerdtree
+git clone https://github.com/scrooloose/syntastic.git $BUNDLE/syntastic
 
 # Install vim autoformat
-git https://github.com/Chiel92/vim-autoformat.git $BUNDLE/nerdtree
+git https://github.com/Chiel92/vim-autoformat.git $BUNDLE/autoformat
 
 # Install easymontion
-git clone https://github.com/Lokaltog/vim-easymotion ~/.vim/bundle/vim-easymotion $BUNDLE/nerdtree
+git clone https://github.com/Lokaltog/vim-easymotion ~/.vim/bundle/vim-easymotion $BUNDLE/easymontion
 
 # Install nerdtree-tabs
-git clone https://github.com/jistr/vim-nerdtree-tabs.git $BUNDLE/nerdtree
+git clone https://github.com/jistr/vim-nerdtree-tabs.git $BUNDLE/nerdtree-tabs
 
 # Install signify
-git clone https://github.com/mhinz/vim-signify $BUNDLE/nerdtree
-
-# Install vim-latex-preview
-git clone https://github.com/xuhdev/vim-latex-live-preview.git $BUNDLE/nerdtree
+git clone https://github.com/mhinz/vim-signify $BUNDLE/signify
 
 # Install snipmate
-git clone https://github.com/tomtom/tlib_vim.git  $BUNDLE/nerdtreet
-git clone https://github.com/MarcWeber/vim-addon-mw-utils.git $BUNDLE/nerdtree
-git clone https://github.com/garbas/vim-snipmate.git $BUNDLE/nerdtree
-git clone https://github.com/honza/vim-snippets.git $BUNDLE/nerdtree
+git clone https://github.com/tomtom/tlib_vim.git  $BUNDLE/tlib
+git clone https://github.com/MarcWeber/vim-addon-mw-utils.git $BUNDLE/vim-addon-mw-utils.
+git clone https://github.com/garbas/vim-snipmate.git $BUNDLE/snipmate
+git clone https://github.com/honza/vim-snippets.git $BUNDLE/honza
 
+#Install vim-latex
+git clone https://github.com/xuhdev/vim-latex-live-preview $BUNDLE/vim-latex-live-preview
