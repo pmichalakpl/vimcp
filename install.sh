@@ -56,7 +56,7 @@ git clone git://github.com/airblade/vim-gitgutter.git $BUNDLE/gitgutter
 git clone https://github.com/scrooloose/syntastic.git $BUNDLE/syntastic
 
 # Install vim autoformat
-git https://github.com/Chiel92/vim-autoformat.git $BUNDLE/autoformat
+git clone https://github.com/Chiel92/vim-autoformat.git $BUNDLE/autoformat
 
 # Install easymontion
 git clone https://github.com/Lokaltog/vim-easymotion ~/.vim/bundle/vim-easymotion $BUNDLE/easymontion
