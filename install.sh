@@ -59,7 +59,7 @@ git clone https://github.com/scrooloose/syntastic.git $BUNDLE/syntastic
 git clone https://github.com/Chiel92/vim-autoformat.git $BUNDLE/autoformat
 
 # Install easymontion
-git clone https://github.com/Lokaltog/vim-easymotion ~/.vim/bundle/vim-easymotion $BUNDLE/easymontion
+git clone https://github.com/Lokaltog/vim-easymotion $BUNDLE/easymontion
 
 # Install nerdtree-tabs
 git clone https://github.com/jistr/vim-nerdtree-tabs.git $BUNDLE/nerdtree-tabs
